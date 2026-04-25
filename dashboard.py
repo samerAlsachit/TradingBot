@@ -20,7 +20,7 @@ def load_data():
     if os.path.exists('wallet.json'):
         with open('wallet.json', 'r') as f: wallet = json.load(f)
     
-    df = pd.read_csv('trades_memory.csv') if os.path.exists('trades_memory.csv') else None
+    df = pd.read_csv('trades_memory.csv', names=['timestamp','price','rsi','action']) if os.path.exists('trades_memory.csv') else None
     if df is not None: df['timestamp'] = pd.to_datetime(df['timestamp'])
     return wallet, df
 
