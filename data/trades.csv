@@ -1,0 +1,2 @@
+timestamp,action,price,amount_usd,amount_coin,profit_pct,profit_usd,balance_after,rsi,adx,reason
+2026-04-26 22:12:51,BUY,86.88,100.0,1.149862,0,0,999.9,72.04,33.25,TREND_FOLLOW
