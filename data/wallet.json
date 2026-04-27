@@ -1,12 +1,12 @@
 {
-  "usd": 900.0,
-  "coin": 1.1498618784530388,
-  "is_holding": true,
+  "usd": 998.26082589779,
+  "coin": 0.0,
+  "is_holding": false,
   "entry_price": 86.88,
-  "highest_price": 87.17,
-  "daily_trades": 1,
-  "daily_loss": 0.0,
-  "last_trade_day": "2026-04-26",
+  "highest_price": 87.25,
+  "daily_trades": 0,
+  "daily_loss": 1.542357274401461,
+  "last_trade_day": "2026-04-27",
   "last_trade_ts": 1777230771.925479,
   "initial_balance": 1000.0
 }

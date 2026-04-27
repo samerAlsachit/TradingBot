@@ -1,0 +1,17 @@
+{
+  "take_profit": 2.0,
+  "stop_loss": 1.5,
+  "trailing": 0.5,
+  "rsi_buy_trend": 55,
+  "rsi_buy_dip": 30,
+  "rsi_sell": 70,
+  "adx_min": 25,
+  "total_trades": 1,
+  "win_trades": 0,
+  "loss_trades": 1,
+  "total_profit": -1.542357274401461,
+  "best_profit": 0.0,
+  "worst_loss": -1.542357274401461,
+  "last_updated": "2026-04-27 10:17:43.382419",
+  "learning_log": []
+}
