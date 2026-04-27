@@ -6,12 +6,12 @@
   "rsi_buy_dip": 30,
   "rsi_sell": 70,
   "adx_min": 25,
-  "total_trades": 1,
-  "win_trades": 0,
+  "total_trades": 6,
+  "win_trades": 5,
   "loss_trades": 1,
-  "total_profit": -1.542357274401461,
-  "best_profit": 0.0,
-  "worst_loss": -1.542357274401461,
-  "last_updated": "2026-04-27 10:17:43.382419",
+  "total_profit": -0.1878971040432274,
+  "best_profit": 0.37678087837041463,
+  "worst_loss": -1.0008146165483691,
+  "last_updated": "2026-04-27 16:58:05.226568",
   "learning_log": []
 }
